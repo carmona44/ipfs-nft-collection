@@ -11,7 +11,6 @@ async function main() {
     await deployedBuenasChicasContract.deployed();
 
     console.log("BuenasChicas Contract Address:", deployedBuenasChicasContract.address);
-    //0xF41823D6988D4FC31Cc652B1319357F5eA45a61C
 }
 
 main()
